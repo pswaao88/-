@@ -10,6 +10,6 @@ public class Student {
     }
 
     public void printName(){
-        System.out.println("안녕하세요, " + this.name + "입니다.");
+        System.out.println("안녕하세요, " + this.name + "입니다. 반갑습니다.");
     }
 }
